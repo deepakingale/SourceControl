@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="SControl">a20a59a80f10130046f1cfdce1050e4b</menu>
+        <name>SControl</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_2361_scontrol</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_2361_scontrol</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>deepak.ingale</sys_created_by>
+        <sys_created_on>2018-02-12 04:31:02</sys_created_on>
+        <sys_id>9a0a55640f10130046f1cfdce1050e7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>deepak.ingale</sys_updated_by>
+        <sys_updated_on>2018-02-12 04:31:02</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_2361_scontrol.user" name="x_2361_scontrol.user">aa0a59a80f10130046f1cfdce1050e4e</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

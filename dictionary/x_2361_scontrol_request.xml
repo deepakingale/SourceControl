@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sm_order" label="Request" max_length="40" name="x_2361_scontrol_request" type="collection"/>
+</database>
